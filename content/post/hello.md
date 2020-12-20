@@ -3,7 +3,6 @@ title = "Welcome to my blog"
 date = "2020-12-20"
 author = "Ollie"
 cover = "img/hello.jpg"
-draft = "false"
 +++
 ## Welcome to my blog based on Windows, Linux and Cyber Security.
 I am someone who is interested in **Ethical Hacking, Networks, Powershell/Coding** as well as computers in general.
