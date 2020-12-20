@@ -1,4 +1,4 @@
-baseurl = "www.OlsCyberBlog.org"
+baseurl = "https://olscyberblog.netlify.app/"
 languageCode = "en-gb"
 theme = "hello-friend"
 paginate = 5
