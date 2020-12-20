@@ -1,5 +1,5 @@
 baseurl = "www.OlsCyberBlog.org"
-languageCode = "en-us"
+languageCode = "en-gb"
 theme = "hello-friend"
 paginate = 5
 
@@ -15,7 +15,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
+    title = "Welcome to my blog"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
