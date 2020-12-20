@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "www.OlsCyberBlog.org"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
