@@ -42,6 +42,18 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
+				identifier = "Linux"
+				name = "Linux"
+				url = "/Linux"
+			[[languages.en.menu.main]]
+				identifier = "Windows"
+				name = "Windows"
+				url = "/Windows"
+			[[languages.en.menu.main]]
+				identifier = "Networks & Virtualisation"
+				name = "Networks & Virtualisation"
+				url = "/Networks and Virtualisation"
+      [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
