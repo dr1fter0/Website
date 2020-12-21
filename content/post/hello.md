@@ -5,6 +5,4 @@ author = "Ollie"
 cover = "img/hello.jpg"
 +++
 ## Welcome to my blog based on Windows, Linux and Cyber Security.
-I am someone who is interested in **Ethical Hacking, Networks, Powershell/Coding** as well as computers in general.
-
-This aims to be a blog based on things I learn, advice I have learnt in terms of which certifications to get, if any at all and well as an aid in learning things such as Linux command line or powershell.
+This is going to be a blog, where I document things I learn myself and exploring the world of computing, through different platforms such as Linux, Windows and Mac OS. The goal is to create a place where not only I can refer back too, but other people can seek advice and tutorials about the world of computing. I am self taught, with an interest in Cyber Security.
