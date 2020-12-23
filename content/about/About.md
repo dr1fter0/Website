@@ -2,7 +2,7 @@
 title = "About me"
 date = "2020-21-12"
 author = "Ollie"
-url: "/about/about/"
+url = "/about/about/"
 +++
 
 # My story
