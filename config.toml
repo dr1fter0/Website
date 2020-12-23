@@ -45,15 +45,15 @@ paginate = 5
       [[languages.en.menu.main]]
 				identifier = "Linux"
 				name = "Linux"
-				url = "/Linux"
+				url = "/linux"
 				weight = 2
 			[[languages.en.menu.main]]
 				identifier = "Windows"
 				name = "Windows"
-				url = "/Windows"
+				url = "/windows"
 				weight = 3
 			[[languages.en.menu.main]]
 				identifier = "Networks & Virtualisation"
 				name = "Networks & Virtualisation"
-				url = "/Networks and Virtualisation"
+				url = "/networks and virtualisation"
 				weight = 4
